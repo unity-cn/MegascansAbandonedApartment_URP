@@ -1,21 +1,22 @@
-# MegascansAbandonedApartment_URP
 ## URP to HDRP Lighting Test
  
-### Current Version
+## Current URP Version
 
 Unity Editor: 2020.3.0f1 
 
 URP: 10.4.0
 
+### URP scene with default 1 Directional light
 ![](https://github.com/unity-cn/MegascansAbandonedApartment_URP/blob/main/MegascansAbandonedApartment_URP.jpg)
 ======================================================================
 
-### Target HDRP Version
+## Target HDRP Version
 
 Editor Version: 2020.3.x
 
 HDRP version : 10.4.x or newer
 
+### Completed baked HDRP ligthing scene reference
 ![](https://github.com/unity-cn/MegascansAbandonedApartment_URP/blob/main/MegascansAbandonedApartment_HDRP.jpg)
 
 ## Goal:
