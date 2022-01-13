@@ -24,7 +24,7 @@ HDRP version : 10.4.x or newer
 Use this scene to make a HDRP Scene with complete lighting:
 
 
-1. Physically correct lighting for midday
+1. Physically correct lighting for midday and sunset (two lighting adjustments for the same scene)
 
 
 2. Adjust the proper materials to the scene props (Use HDRP ShaderGraph)
@@ -33,7 +33,7 @@ Use this scene to make a HDRP Scene with complete lighting:
 3. The scene can be either real-time lighting or Baked lightmap
 
 
-4. Final looks as realistic as possible
+4. Do anything you need in Unity Editor to make the final looks as realistic as possible
 
 
 ## Bonus:
