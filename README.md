@@ -41,5 +41,8 @@ Use this scene to make a HDRP Scene with complete lighting:
 Add Decals feature in the scene
 
 ### Note:
-There are sample URP ShaderGraph shader for reference, They can be converted to HDRP
+
+<li>There are sample URP ShaderGraph shader for reference, They can be converted to HDRP</li>
+
+<li>Do not use any Real-time Raytracing feature </li>
 
